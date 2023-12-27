@@ -1,0 +1,16 @@
+{
+  "props": {
+    "title": "Beneath a Steel Sky - Freeware CD Version"
+  },
+  "files": [
+    {
+      "url": "",
+      "extract": true,
+      "name": "pak1.zip"
+    },
+    {
+      "url": "",
+      "name": "bass-cd-1.2/sky.dsk"
+    }
+  ]
+}
