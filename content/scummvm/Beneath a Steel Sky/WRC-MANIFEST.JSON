@@ -1,16 +1,16 @@
-﻿{
+{
   "props": {
-    "title": "Beneath a Steel Sky - Freeware CD Version"
+    "title": "bass-cd-1.2-wrc.zip"
   },
   "files": [
     {
-      "url": "https://github.com/webrcade/webrcade-default-feed/raw/main/content/scummvm/Beneath%20a%20Steel%20Sky/pak1.zip",
+      "url": "",
       "extract": true,
       "name": "pak1.zip"
     },
     {
-      "url": "https://github.com/webrcade/webrcade-default-feed/raw/main/content/scummvm/Beneath%20a%20Steel%20Sky/bass-cd-1.2/sky.dsk",
-      "name": "bass-cd-1.2/sky.dsk"
+      "url": "",
+      "name": "sky.dsk"
     }
   ]
 }
