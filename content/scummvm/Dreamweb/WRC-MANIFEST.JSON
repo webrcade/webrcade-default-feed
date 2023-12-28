@@ -1,0 +1,29 @@
+{
+  "props": {
+    "title": "dreamweb-cd-us-1.1-wrc.zip"
+  },
+  "files": [
+    {
+      "url": "",
+      "extract": true,
+      "name": "pak1.zip"
+    },
+    {
+      "url": "",
+      "extract": true,
+      "name": "pak2.zip"
+    },
+    {
+      "url": "",
+      "name": "DREAMWEB.P02"
+    },
+    {
+      "url": "",
+      "name": "DREAMWEB.P01"
+    },
+    {
+      "url": "",
+      "name": "DREAMWEB.WAV"
+    }
+  ]
+}

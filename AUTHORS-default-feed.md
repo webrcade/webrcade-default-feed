@@ -2,7 +2,7 @@
 
 The default feed consists of of high-quality publicly available games and demos across the various [application types](https://docs.webrcade.com/apps/) ([emulators](https://docs.webrcade.com/apps/emulators/), [engines](https://docs.webrcade.com/apps/engines/), etc.) that are supported by webЯcade.
 
-The following table includes the list of titles that are included in the default feed, their respective authors, and related links. 
+The following table includes the list of titles that are included in the default feed, their respective authors, and related links.
 
 A best effort attempt was made to ensure that the titles listed below could be included in the default feed. If for any reason the owner of a title listed below would like to have it removed, please send an email to [webrcade@webrcade.com](mailto:webrcade@webrcade.com) or create a new [GitHub Issue](https://github.com/webrcade/webrcade/issues).
 <br/>
@@ -137,3 +137,10 @@ A best effort attempt was made to ensure that the titles listed below could be i
 | Doom 1 (Shareware) | id Software  | [Doom Classic](https://docs.webrcade.com/apps/engines/doom/) | https://www.idsoftware.com/en-us/ |
 | Freedoom Phase 1 | Contributors to the Freedoom project  | [Doom Classic](https://docs.webrcade.com/apps/engines/doom/) | https://freedoom.github.io/ |
 | Freedoom Phase 2 | Contributors to the Freedoom project  | [Doom Classic](https://docs.webrcade.com/apps/engines/doom/) | https://freedoom.github.io/ |
+| Beneath a Steel Sky | Revolution Software Ltd.  | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-sky:sky |
+| Dráscula: The Vampire Strikes Back | Alcachofa Soft S.L.  | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-drascula:drascula |
+| DreamWeb | Neil Dodwell and David Dew trading as Creative Reality  | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-dreamweb:dreamweb |
+| Flight of the Amazon Queen | John Passfield & Steve Stamatiadis  | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-queen:queen |
+| Griffon Legend |Syn9 | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-griffon:griffon |
+| Sfinx | Laboratorium Komputerowe Avalon | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-cge2:sfinx |
+| Sołtys | Laboratorium Komputerowe Avalon | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-cge:soltys |
