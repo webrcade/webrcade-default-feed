@@ -13,12 +13,16 @@ A best effort attempt was made to ensure that the titles listed below could be i
 | Amoeba Jump | Dion Olsthoorn | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/forums/topic/280211-amoeba-jump/ |
 | Blinky Goes Up | Jan Hermanns | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/forums/topic/193297-blinky-goes-up-formerly-giana-bros/ |
 | Doggone It! | Armscar Coder | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/forums/topic/308520-doggone-it/ |
+| Draconian | Darrell Spice, Jr. | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://forums.atariage.com/topic/225044-draconian-2600/ |
+| Elevator Agent (Demo) | Champ Games | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://champ.games/elevator-agent |
 | Fall Down | Aaron Curtis | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/software_page.php?SoftwareLabelID=2722 |
 | Gunfight | Manuel Rotschkar | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/software_page.php?SoftwareLabelID=1627 |
 | Halo 2600 | Ed Fries | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/forums/topic/166916-halo-for-the-2600-released-at-cge-download-the-game-here/ |
 | Hunchy II | Chris Walton | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/software_page.php?SoftwareLabelID=2729 |
 | I Ran | Vladimir Zúñiga | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/forums/topic/125269-juno-first-final-version-atari-2600/ |
 | Juno First | Chris Walton | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/forums/topic/125269-juno-first-final-version-atari-2600/ |
+| Lady Bug Arcade (Demo) | Champ Games | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://champ.games/lady-bug-arcade |
+| Mappy (Demo) | Champ Games | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://champ.games/mappy |
 | Ninjish Guy in Low Res World | Vladimir Zúñiga | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/forums/topic/291040-ninjish-guy-in-low-res-world/ |
 | Oystron | Piero Cavina | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/software_page.php?SoftwareLabelID=869 |
 | Peril | Vladimir Zúñiga | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/forums/topic/284157-peril-wip-game/ |
@@ -29,8 +33,10 @@ A best effort attempt was made to ensure that the titles listed below could be i
 | Space Instigators | Christopher Tumber | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/software_page.php?SoftwareLabelID=2369 |
 | Star Fire | Manuel Rotschkar | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/software_page.php?SoftwareLabelID=2385 |
 | Stay Frosty | Darrell Spice, Jr. | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | http://www.spiceware.org/atari_stay_frosty.html |
+| Stay Frosty 2 (Demo) | Darrell Spice, Jr. | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://forums.atariage.com/topic/220074-stay-frosty-2-demo-released/ |
 | Thrust | Thomas Jentzsch | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/software_page.php?SoftwareLabelID=872 |
 | Toyshop Trouble | John Payson (Zach Matley, Bob Montgomery) | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/software_page.php?SoftwareLabelID=2787 |
+| Turbo Arcade (Demo) | Champ Games | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://champ.games/turbo-arcade |
 | Bentley Bear's Crystal Quest | Bob DeCrescenzo | [Atari 7800](https://docs.webrcade.com/apps/emulators/7800/) | https://atariage.com/forums/topic/199637-work-in-progress-bentley-bear-crystal-quest/ |
 | Dragon's Cache | Todd Furmanski | [Atari 7800](https://docs.webrcade.com/apps/emulators/7800/) | https://atariage.com/forums/topic/299210-dragons-cache-vs-puzzle-drop-game-now-available-for-purchase/ |
 | Dragon's Descent | Todd Furmanski | [Atari 7800](https://docs.webrcade.com/apps/emulators/7800/) | https://atariage.com/forums/topic/291525-dragons-descent-actionroguelike-for-the-7800-ported-from-the-2600/ |
