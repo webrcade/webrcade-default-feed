@@ -37,6 +37,7 @@ A best effort attempt was made to ensure that the titles listed below could be i
 | Thrust | Thomas Jentzsch | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/software_page.php?SoftwareLabelID=872 |
 | Toyshop Trouble | John Payson (Zach Matley, Bob Montgomery) | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://atariage.com/software_page.php?SoftwareLabelID=2787 |
 | Turbo Arcade (Demo) | Champ Games | [Atari 2600](https://docs.webrcade.com/apps/emulators/2600/) | https://champ.games/turbo-arcade |
+| Attack of the PETSCII Robots (Demo) | David Murray (Mike Saarna, Matthew Smith) | [Atari 7800](https://docs.webrcade.com/apps/emulators/7800/) | https://forums.atariage.com/topic/350893-attack-of-the-petscii-robots-atari-7800/ |
 | Bentley Bear's Crystal Quest | Bob DeCrescenzo | [Atari 7800](https://docs.webrcade.com/apps/emulators/7800/) | https://atariage.com/forums/topic/199637-work-in-progress-bentley-bear-crystal-quest/ |
 | Dragon's Cache | Todd Furmanski | [Atari 7800](https://docs.webrcade.com/apps/emulators/7800/) | https://atariage.com/forums/topic/299210-dragons-cache-vs-puzzle-drop-game-now-available-for-purchase/ |
 | Dragon's Descent | Todd Furmanski | [Atari 7800](https://docs.webrcade.com/apps/emulators/7800/) | https://atariage.com/forums/topic/291525-dragons-descent-actionroguelike-for-the-7800-ported-from-the-2600/ |
@@ -95,6 +96,7 @@ A best effort attempt was made to ensure that the titles listed below could be i
 | Blast Arena Advance | Mathew Carr | [Nintendo GBA](https://docs.webrcade.com/apps/emulators/gba/) | https://www.mrdictionary.net/blastarenacart/ |
 | Broken Circle | 7 Raven Studio | [Nintendo GBA](https://docs.webrcade.com/apps/emulators/gba/) | https://www.giantbomb.com/broken-circle/3030-25333/ |
 | Flappy Bird | Jay van Hutten | [Nintendo GBA](https://docs.webrcade.com/apps/emulators/gba/) | http://jayvanhutten.com/flappy/ |
+| LOCKJAW: The Overdose | Damian Yerrick | [Nintendo GBA](https://docs.webrcade.com/apps/emulators/gba/) | https://tetris.wiki/Lockjaw:_The_Overdose |
 | MazezaM Challenge | Alekmaul | [Nintendo GBA](https://docs.webrcade.com/apps/emulators/gba/) | https://www.portabledev.com/jeux/supernes/mazezam-snes/ |
 | Motocross Challenge | DHG  | [Nintendo GBA](https://docs.webrcade.com/apps/emulators/gba/) | https://www.giantbomb.com/motocross-challenge/3030-19653/ |
 | POWDER | Jeff Lait | [Nintendo GBA](https://docs.webrcade.com/apps/emulators/gba/) | http://www.zincland.com/powder/index.php |
@@ -148,5 +150,28 @@ A best effort attempt was made to ensure that the titles listed below could be i
 | DreamWeb | Neil Dodwell and David Dew trading as Creative Reality  | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-dreamweb:dreamweb |
 | Flight of the Amazon Queen | John Passfield & Steve Stamatiadis  | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-queen:queen |
 | Griffon Legend |Syn9 | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-griffon:griffon |
+| Lure of the Temptress | Revolution Software Ltd. | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-lure:lure |
 | Sfinx | Laboratorium Komputerowe Avalon | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-cge2:sfinx |
 | Sołtys | Laboratorium Komputerowe Avalon | [ScummVM](https://docs.webrcade.com/apps/engines/scummvm/) | https://www.scummvm.org/games/#games-cge:soltys |
+| Bruce Lee II | Jonas Hultén | [Commodore 64](https://docs.webrcade.com/apps/emulators/commodore/) | https://csdb.dk/release/?id=137540 |
+| Castle Shadowgate | Donnie Russell II | [Commodore 64](https://docs.webrcade.com/apps/emulators/commodore/) | https://csdb.dk/release/?id=229039 |
+| Comaland (Scene Demo) | Censor Design, Oxyron | [Commodore 64](https://docs.webrcade.com/apps/emulators/commodore/) | https://csdb.dk/release/?id=133940 |
+| Digiloi | Dr. TerrorZ | [Commodore 64](https://docs.webrcade.com/apps/emulators/commodore/) | https://csdb.dk/release/?id=173193 |
+| Next Level (Scene Demo) | Performers | [Commodore 64](https://docs.webrcade.com/apps/emulators/commodore/) | https://csdb.dk/release/?id=232976 |
+| Rent-A-Cop Reloaded | Achim | [Commodore 64](https://docs.webrcade.com/apps/emulators/commodore/) | https://csdb.dk/release/?id=166946 |
+| Time of Silence | Claus | [Commodore 64](https://docs.webrcade.com/apps/emulators/commodore/) | https://csdb.dk/release/?id=158096 |
+| Vallation | Cosine | [Commodore 64](https://docs.webrcade.com/apps/emulators/commodore/) | https://csdb.dk/release/?id=125140 |
+| Wolfling | Lazycow | [Commodore 64](https://docs.webrcade.com/apps/emulators/commodore/) | https://csdb.dk/release/?id=173793 |
+| Alien Rampage (Demo) | Inner Circle Creations | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://www.gog.com/en/game/alien_rampage |
+| Blake Stone: Aliens of Gold (Shareware) | JAM Productions | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://www.gog.com/en/game/blake_stone_aliens_of_gold |
+| Descent (Demo) | Parallax Software | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://www.gog.com/game/descent |
+| Duke Nukem 3D (Shareware) | 3D Realms | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://store.steampowered.com/app/434050/Duke_Nukem_3D_20th_Anniversary_World_Tour/ |
+| Incredible Machine 2 (Demo) | Jeff Tunnell Productions | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://en.wikipedia.org/wiki/The_Incredible_Machine_2 |
+| Powerslave (Demo) | Lobotomy Software | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://www.gog.com/en/game/powerslave |
+| Prince of Persia (Demo) | Jordan Mechner | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://www.jordanmechner.com/en/games-movies/prince-of-persia/ |
+| Rayman (Demo) | Ubisoft | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://www.ubisoft.com/ |
+| Star Wars: Dark Forces (Demo) | LucasArts | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://store.steampowered.com/app/32400/STAR_WARS_DarkForces/ |
+| Tyrian 2000 | Eclipse Productions | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://www.gog.com/game/tyrian_2000 |
+| WarCraft II: Tides of Darkness (Shareware) | Blizzard Entertainment | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://www.blizzard.com/ |
+| Where in the USA Is Carmen Sandiego? (Demo) | Broderbund Software | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://www.carmensandiego.com/ |
+| Wolfenstein 3D (Shareware) | id Software | [DOS](https://docs.webrcade.com/apps/emulators/dos/) | https://www.idsoftware.com/ |
